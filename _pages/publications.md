@@ -13,7 +13,7 @@ Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://ais
 Songwei Ge\*, **Vasu Singla**\*, Ronen Basri, David Jacobs
 
 [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) <br>
-[ICCV 2021](http://iccv2021.thecvf.com/) \
+Accepted at [ICCV 2021](http://iccv2021.thecvf.com/) (Poster) \
 Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://aisecure-workshop.github.io/aml-iclr2021/) \
 **Vasu Singla**, Sahil Singla, David Jacobs, Soheil Feizi
 

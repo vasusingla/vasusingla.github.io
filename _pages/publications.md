@@ -9,9 +9,12 @@ You can also find my articles on my [Google scholar profile](https://scholar.goo
 \* denotes equal contribution.
 
 [Shift Invariance Can Reduce Adversarial Robustness](https://arxiv.org/abs/2103.02695) <br>
+Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://aisecure-workshop.github.io/aml-iclr2021/) \
 Songwei Ge\*, **Vasu Singla**\*, Ronen Basri, David Jacobs
 
 [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) <br>
+[ICCV 2021](http://iccv2021.thecvf.com/) \
+Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://aisecure-workshop.github.io/aml-iclr2021/) \
 **Vasu Singla**, Sahil Singla, David Jacobs, Soheil Feizi
 
 [ASAP-NMS: Accelerating Non-Maximum Suppression Using Spatially Aware Priors](https://arxiv.org/abs/2007.09785) <br>

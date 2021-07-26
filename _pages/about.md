@@ -12,6 +12,8 @@ I am currently a second year grad student and will be continuing my Ph.D at [CS 
 
 News
 ====
+- [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) was accepted to ICCV 2021!
+- Started summer internship at Apple.
 - [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) (short-version) was accepted to [ICLR 2021 Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/) and recieved travel award!
 - [Shift Invariance Can Reduce Adversarial Robustness](https://arxiv.org/abs/2103.02695) (short-version) was accepted to [ICLR 2021 Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/)!
 - Excited for the summer research internship offer at Apple starting June 2021!

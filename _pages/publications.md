@@ -8,7 +8,12 @@ author_profile: true
 You can also find my articles on my [Google scholar profile](https://scholar.google.com/citations?user=geHpT2IAAAAJ&hl=en). <br>
 \* denotes equal contribution.
 
+CutMixWords: Data Augmentation for Accent Robust Speech Recognition \
+Under Submission \
+**Vasu Singla**\*, Sayantan Mahinder*, Bortik Bandyopadhyay, Srinivas Chappidi
+
 [Shift Invariance Can Reduce Adversarial Robustness](https://arxiv.org/abs/2103.02695) <br>
+Accepted at [NeurIPS 2021](https://neurips.cc/) (Poster) \
 Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://aisecure-workshop.github.io/aml-iclr2021/) \
 Songwei Ge\*, **Vasu Singla**\*, Ronen Basri, David Jacobs
 

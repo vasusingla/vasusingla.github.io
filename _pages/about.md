@@ -19,7 +19,7 @@ Previously, I have also worked on visual recognition problems such as object det
 
 News
 ====
-- [Autoregressive Perturbations for Data Poisoning](https://arxiv.org/abs/2206.03693) was accepted at NeurIPS 2022! I'm really excited for my first in-person conference :)!
+- [Autoregressive Perturbations for Data Poisoning](https://arxiv.org/abs/2206.03693) was accepted at NeurIPS 2022! I'm really excited for my first in-person conference :)
 - I finished my internship, and I'm back at UMD!
 - I'll be interning at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) hosted by [Ye Wang](https://www.merl.com/people/yewang) focusing on robust machine learning.
 - [Poisons that are learned faster are more effective](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/html/Sandoval-Segura_Poisons_That_Are_Learned_Faster_Are_More_Effective_CVPRW_2022_paper.html) was accepted to [CVPR 2022 The Art of Robustness Workshop](https://openaccess.thecvf.com/CVPR2022_workshops/ArtOfRobust)!

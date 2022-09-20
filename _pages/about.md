@@ -11,7 +11,7 @@ redirect_from:
 I am currently a 2nd year Ph.D student at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/).
 I previously finished my M.S here as well. 
 I am advised by [Prof. David Jacobs](http://www.cs.umd.edu/~djacobs/).
-My broad research interest is focused on developing security and robustness of machine learning systems. In my current research, I've focused on three different sub-problems - 
+My broad research interest is focused on understanding and improving the performance of machine learning systems across distribution shifts. In my current research, I've focused on three different sub-problems - 
 1. **Adversarial Robustness** - Why do adversarial examples arise in current machine learning systems? How can we develop ML systems that function better against adversarial examples?
 2. **Data Poisoning** - Increasingly there have been rise in privacy concerns for AI systems. How can we make our data publicly accessible such as on social media websites, and ensure that it cannot be used by an unauthorized ML systems? 
 3. **Noisy Labels** - Current ML systems can overfit easily to noisy labels. How can we improve robustness of these systems?

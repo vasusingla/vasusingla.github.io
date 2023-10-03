@@ -24,8 +24,8 @@ Pedro Sandoval-Segura, **Vasu Singla**, Jonas Geiping, Micah Goldblum, Tom Golds
 Accepted at [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023) \
 Gowthami Somepalli, **Vasu Singla**, Micah Goldblum, Jonas Geiping, Tom Goldstein
 
-[Learning with noisy labels using low-dimensional model trajectory](https://openreview.net/forum?id=QI64E1iz3G)
-Accepted at [NeurIPS 2022 DistShift Workshop](https://sites.google.com/view/distshift2022)
+[Learning with noisy labels using low-dimensional model trajectory](https://openreview.net/forum?id=QI64E1iz3G) <br>
+Accepted at [NeurIPS 2022 DistShift Workshop](https://sites.google.com/view/distshift2022) \
 **Vasu Singla**, Shuchin Aeron, Toshiaki Koike-Akino, Kieran Parsons, Matthew Brand, Ye Wang
 
 [Autoregressive Perturbations for Data Poisoning](https://arxiv.org/abs/2206.03693) <br>

@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 2nd year Ph.D student at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/).
-I previously finished my M.S here as well. 
-I am advised by [Prof. David Jacobs](http://www.cs.umd.edu/~djacobs/).
-My broad research interest is focused on understanding and improving the performance of machine learning systems across distribution shifts. In my current research, I've focused on three different sub-problems - 
-1. **Adversarial Robustness** - Why do adversarial examples arise in current machine learning systems? How can we develop ML systems that function better against adversarial examples?
-2. **Data Poisoning** - Increasingly there have been rise in privacy concerns for AI systems. How can we make our data publicly accessible such as on social media websites, and ensure that it cannot be used by an unauthorized ML systems? 
-3. **Noisy Labels** - Current ML systems can overfit easily to noisy labels. How can we improve robustness of these systems?
+I am currently a 3rd year Ph.D student at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/). I previously finished my M.S here as well. 
+I am advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/) and [Prof. David Jacobs](http://www.cs.umd.edu/~djacobs/).
+
+My research interests span multiple areas. Recently my work has been focused on generative models, security and attribution of machine learning systems.
 
 
 Previously, I have also worked on visual recognition problems such as object detection and instance segmentation.
 
 News
 ====
+- [What Can We Learn from Unlearnable Datasets?](https://arxiv.org/abs/2305.19254) was accepted at NeurIPS 2023!
+- [Understanding and Mitigating Copying in Diffusion Models](https://arxiv.org/pdf/2305.20086.pdf) was accepted at NeurIPS 2023!
+- [Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models](https://arxiv.org/abs/2212.03860) was accepted at CVPR 2023!
+- Started a part-time internship at [Cruise](https://getcruise.com/)! Excited to work on self-driving cars :D
+- [Learning with noisy labels using low-dimensional model trajectory](https://openreview.net/forum?id=QI64E1iz3G) was accepted at NeurIPS 2022 DistShift Workshop!
 - [Autoregressive Perturbations for Data Poisoning](https://arxiv.org/abs/2206.03693) was accepted at NeurIPS 2022! I'm really excited for my first in-person conference :)
 - I finished my internship, and I'm back at UMD!
 - I'll be interning at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) hosted by [Ye Wang](https://www.merl.com/people/yewang) focusing on robust machine learning.
@@ -30,7 +32,3 @@ News
 - [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) was accepted to ICCV 2021!
 - Started summer internship at Apple.
 - [Low Curvature Activations Reduce Overfitting in Adversarial Training](https://arxiv.org/abs/2102.07861) (short-version) was accepted to [ICLR 2021 Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/) and recieved travel award!
-- [Shift Invariance Can Reduce Adversarial Robustness](https://arxiv.org/abs/2103.02695) (short-version) was accepted to [ICLR 2021 Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/)!
-- Excited for the summer research internship offer at Apple starting June 2021!
-- Accepted into Ph.D program at [University of Maryland](https://www.cs.umd.edu/) with Chair's Fellowship!
-

@@ -8,6 +8,22 @@ author_profile: true
 You can also find my articles on my [Google scholar profile](https://scholar.google.com/citations?user=geHpT2IAAAAJ&hl=en). <br>
 \* denotes equal contribution.
 
+[Why Diffusion Models Memorize and How to Mitigate Copying](https://arxiv.org/pdf/2305.20086.pdf)
+Accepted at [NeurIPS 2023](https://neurips.cc/)
+Gowthami Somepalli, **Vasu Singla**, Micah Goldblum, Jonas Geiping, Tom Goldstein
+
+[What Can We Learn from Unlearnable Datasets?](https://arxiv.org/abs/2305.19254)
+Accepted at [NeurIPS 2023](https://neurips.cc/)
+Pedro Sandoval-Segura, **Vasu Singla**, Jonas Geiping, Micah Goldblum, Tom Goldstein
+
+[Diffusion art or digital forgery? investigating data replication in diffusion models](https://openaccess.thecvf.com/content/CVPR2023/html/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.html)
+Accepted at [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023)
+Gowthami Somepalli, **Vasu Singla**, Micah Goldblum, Jonas Geiping, Tom Goldstein
+
+[Learning with noisy labels using low-dimensional model trajectory](https://openreview.net/forum?id=QI64E1iz3G)
+Accepted at [NeurIPS 2022 DistShift Workshop](https://sites.google.com/view/distshift2022)
+**Vasu Singla**, Shuchin Aeron, Toshiaki Koike-Akino, Kieran Parsons, Matthew Brand, Ye Wang
+
 [Autoregressive Perturbations for Data Poisoning](https://arxiv.org/abs/2206.03693) <br>
 Accepted at [NeurIPS 2022](https://neurips.cc/) \
 Pedro Sandoval-Segura\*, **Vasu Singla**\*, Jonas Geiping, Micah Goldblum, Tom Goldstein, David W. Jacobs
@@ -31,5 +47,3 @@ Short Version at [ICLR 2021 Security and Safety in Machine Learning](https://ais
 
 [ASAP-NMS: Accelerating Non-Maximum Suppression Using Spatially Aware Priors](https://arxiv.org/abs/2007.09785) <br>
 Rohun Tripathi\*, **Vasu Singla**\*, Mahyar Najibi, Bharat Singh, Abhishek Sharma, Larry Davis
-
-

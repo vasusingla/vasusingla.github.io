@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here's my current [C.V](/files/Resume_Master.pdf). It was last updated on March 2021.
+Here's my current [C.V](/files/Resume_Master.pdf). It was last updated on October 2023.

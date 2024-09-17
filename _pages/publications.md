@@ -8,8 +8,16 @@ author_profile: true
 You can also find my articles on my [Google scholar profile](https://scholar.google.com/citations?user=geHpT2IAAAAJ&hl=en). <br>
 \* denotes equal contribution.
 
-A Simple and Efficient Baseline for Data Attribution on Images <br>
-Under Review \
+[From Pixels to Prose: A Large Dataset of Dense Image Captions](https://arxiv.org/abs/2406.10328) <br>
+Under Review
+**Vasu Singla**\*, Kaiyu Yue\*, Sukriti Paul, Reza Shirkavand, Mayuka Jayawardhana, Alireza Ganjdanesh, Heng Huang, Abhinav Bhatele, Gowthami Somepalli, Tom Goldstein
+
+[PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting](https://arxiv.org/abs/2406.10219) <br>
+Under Review
+Alex Hanson, Allen Tu, **Vasu Singla**, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein
+
+[A Simple and Efficient Baseline for Data Attribution on Images](https://arxiv.org/abs/2311.033868) <br>
+Accepted at NeurIPS 2023 ATTRIB Workshop \
 **Vasu Singla**, Pedro Sandoval-Segura, Micah Goldblum, Jonas Geiping, Tom Goldstein
 
 [Why Diffusion Models Memorize and How to Mitigate Copying](https://arxiv.org/pdf/2305.20086.pdf) <br>

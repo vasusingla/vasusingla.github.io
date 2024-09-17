@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm on the job market! Please reach out, if you have any opporunity, you think I'd be a good fit for. 
+<span style="color:red">
+**I'm on the job market! Please reach out, if you have any opporunity, you think I'd be a good fit for.**
+</span> <br>
+
 I am currently a 4th year Ph.D at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/). I previously spent 2 years as a Master student here. 
 I am advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/) and [Prof. David Jacobs](http://www.cs.umd.edu/~djacobs/). 
 My research interests span multiple areas, such as multimodal learning, robustness, and security of AI systems.

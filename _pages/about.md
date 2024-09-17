@@ -9,15 +9,13 @@ redirect_from:
 ---
 
 <span style="color:red">
-**I'm on the job market! Please reach out, if you have any opporunity, you think I'd be a good fit for.**
+**I'm on the job market! Please reach out, if you have any research opporunity you think I'd be a good fit for.**
 </span> <br>
 
-I am currently a 4th year Ph.D at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/). I previously spent 2 years as a Master student here. 
+I am currently a 4th year Ph.D at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/). I previously spent 2 years as a Master's student here. 
 I am advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/) and [Prof. David Jacobs](http://www.cs.umd.edu/~djacobs/). 
-My research interests span multiple areas, such as multimodal learning, robustness, and security of AI systems.
 
-
-Previously, I have also worked on visual recognition problems such as object detection and instance segmentation.
+My research interests center on multimodal learning, robustness, and responsible AI. Recently, I have focused on developing improved text+image datasets and addressing safety and privacy risks associated with generative models, particularly in text-to-image generation. 
 
 News
 ====

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style="color:red">
-**I'm on the job market! Please reach out, if you have any research opporunity you think I'd be a good fit for.**
+**I'm on the job market! Please reach out, if you have any research opportunity you think I'd be a good fit for.**
 </span> <br>
 
 I am currently a 4th year Ph.D at [CS Department in University of Maryland, College Park](https://www.cs.umd.edu/). I previously spent 2 years as a Master's student here. 
